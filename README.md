@@ -1,6 +1,6 @@
 # fantasy-football-projector
 
-To run this program, clone the repository and run main.java.
+To run this program, clone the repository and run Main.java.  Running should print a series of fantasy football predictions.
 
 This Java project predicts the outcome of my 2019 Fantasy Football league. The system works by taking input data (which can be found in the 'Resources' directory) for each of the 16 teams.  The data consists of each player's position, bye week, average points scored until week 11, and standard deviation of points scored until week 11. 
 
